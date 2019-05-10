@@ -7,8 +7,8 @@ import (
 
 	"sync"
 
-	"github.com/asticode/go-astilog"
-	"github.com/asticode/go-astitools/time"
+	"github.com/molotovtv/go-astilog"
+	"github.com/molotovtv/go-astitools/time"
 	"github.com/pkg/errors"
 	"github.com/streadway/amqp"
 )
