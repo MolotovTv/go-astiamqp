@@ -1,9 +1,8 @@
-module github.com/asticode/go-astiamqp
+module github.com/molotovtv/go-astiamqp
 
 require (
-	github.com/asticode/go-astilog v1.0.0
-	github.com/asticode/go-astitools v1.0.0
-	github.com/pkg/errors v0.8.0
-	github.com/streadway/amqp v0.0.0-20181205114330-a314942b2fd9
-	golang.org/x/sys v0.0.0-20181217223516-dcdaa6325bcb // indirect
+	github.com/molotovtv/go-astilog v0.0.0-20190826120007-12ed50cb3050
+	github.com/molotovtv/go-astitools v0.0.0-20190826124408-bc6e947ac09d
+	github.com/pkg/errors v0.8.1
+	github.com/streadway/amqp v0.0.0-20190815230801-eade30b20f1d
 )
